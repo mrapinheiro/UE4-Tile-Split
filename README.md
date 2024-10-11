@@ -5,5 +5,5 @@ This repository contains two tools: `HeightmapTool` and `TileImage`. Both tools 
 
 ## Installation
 ### Prerequisites
-- .NET Framework 4.5 or later.
-- Visual Studio 2017 or later (recommended) for building the project.
+- .NET Framework 4.8 or later.
+- Visual Studio 2022 or later (recommended) for building the project.
