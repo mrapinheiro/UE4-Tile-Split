@@ -1,2 +1,9 @@
 # UE4-Tile-Split
-Export and split your tiles using heightmaps in UE4 for world composition.
+
+## Introduction
+This repository contains two tools: `HeightmapTool` and `TileImage`. Both tools are developed using C# and target .NET Framework applications. `HeightmapTool` is designed to manipulate and generate heightmap data, useful for terrain generation in games or simulations. `TileImage` is focused on image processing, specifically working with tile-based images for various applications.
+
+## Installation
+### Prerequisites
+- .NET Framework 4.5 or later.
+- Visual Studio 2017 or later (recommended) for building the project.
